@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="status_bar_color">#ae1954dc</color>
+
+    <item name="blue" type="color">#79acbf</item>
+    <item name="red" type="color">#fe7763</item>
+    <item name="grey1" type="color">#898989</item>
+    <item name="light_red" type="color">#fd8e7d</item>
+    <item name="light_orange" type="color">#fcb270</item>
+
+    <integer-array name="roundcolors">
+        <item>@color/blue</item>
+        <item>@color/red</item>
+        <item>@color/grey1</item>
+        <item>@color/light_red</item>
+        <item>@color/light_orange</item>
+    </integer-array>
+
+
+</resources>
