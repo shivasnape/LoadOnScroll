@@ -1,7 +1,7 @@
 package com.example.shiva.loadingdatasonscrolling.model;
 
 /**
- * Created by root on 28/7/17.
+ * Created by Shivichu on 28/7/17.
  */
 
 public class NotificationDataList {
