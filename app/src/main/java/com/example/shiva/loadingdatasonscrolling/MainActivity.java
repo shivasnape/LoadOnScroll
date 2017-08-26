@@ -27,6 +27,9 @@ import java.util.List;
 import java.util.Random;
 
 import de.hdodenhof.circleimageview.CircleImageView;
+/**
+ * Created by Shivichu on 24-08-2017.
+ */
 
 /* Its a Simple Demo.. it can also be used for loading datas from server... just wrap it with the request while using volley */
 
