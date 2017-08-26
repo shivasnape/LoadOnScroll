@@ -1,7 +1,8 @@
 package com.example.shiva.loadingdatasonscrolling.listener;
 
 /**
- * Created by tuanhai on 11/3/15.
+ * Created by Shivichu on 26-08-2017.
+
  */
 public interface OnLoadMoreListener {
     void onLoadMore();
